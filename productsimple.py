@@ -19,7 +19,7 @@ background_image_path = "OIP.jfif"
 st.image(background_image_path, use_column_width=True)  # Adjust 'use_column_width' based on your preference
 
 st.markdown("# WQD7001 GROUP 1")
-st.title("EVOLUTION OF E-COMMERCE & CONSUMERS' BEHAVIOR TO FORECAST FUTURE E-COMMERCE TRENDS​")
+st.title("FORECAST FUTURE E-COMMERCE TRENDS​")
 st.write("MEMBERS: NUR SHAFIQAH, LAW JIA JIN, LIM CHENG YANG, LIM SZE SING, GAN JING WEN")
 
 st.write("Our data product is a predictive analytics tool designed to assist businesses in forecasting the Yearly Amount Spent by their customers. Leveraging a Decision Tree Regression model, the system analyzes various customer attributes to generate accurate predictions, aiding businesses in making informed decisions.")
